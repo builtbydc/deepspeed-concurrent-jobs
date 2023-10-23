@@ -38,7 +38,7 @@ This experiment is currently set to use a single GPU. In order to change this, t
 2. Obtain ImageNet dataset.
 	1. More info [here.](https://image-net.org/download.php)
 3. Clone this repository.
-	1. `git clone abcd`
+	1. `git clone https://github.com/builtbydc/deepspeed-concurrent-jobs`
 4. Set configurations as described above.
 	1. Set train_img_dir to ImageNet directory.
 5. Run the experiment.
